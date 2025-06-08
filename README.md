@@ -30,21 +30,23 @@ This application is designed to streamline customer support through a powerful d
 ---
  Application Screenshots
 
-### 🏠 Homepage
-![Homepage](frontend/public/Homepage.png)
-Welcome to Explore Cafe - your gateway to delicious dining experiences.
+### Userpage
+![Userpage](https://github.com/adityachandra512/ServiceDA/blob/master/src/assets/images/Screenshot%20(28).png)
 
-### 🍽️ Menu Page
-![Menu](frontend/public/Menu.png)
-Browse our extensive menu with beautifully presented dishes.
+### Tickets page
+![Tickets](https://github.com/adityachandra512/ServiceDA/blob/master/src/assets/images/Screenshot%20(29).png)
 
-### 👤 Admin Dashboard
-![Admin Dashboard](frontend/public/admindashboard.png)
-Powerful admin controls for restaurant management.
+### Admin Dashboard
+![Admin Dashboard](https://github.com/adityachandra512/ServiceDA/blob/master/src/assets/images/Screenshot%20(32).png)
 
-### 👥 User Management
-![Admin Users](frontend/public/adminuser.png)
-Efficient user management interface for administrators.
+![Admin Managament](https://github.com/adityachandra512/ServiceDA/blob/master/src/assets/images/Screenshot%20(33).png)
+
+###  Tickets Generator
+![Form](https://github.com/adityachandra512/ServiceDA/blob/master/src/assets/images/Screenshot%20(30).png)
+
+![Payment Gateway](https://github.com/adityachandra512/ServiceDA/blob/master/src/assets/images/Screenshot%20(31).png)
+
+
 ## 🚀 Core Features
 
 ### 1️⃣ Dual-Role System
