@@ -232,7 +232,7 @@ npm run dev
 
 **Aditya Chandan**
 📧 [adityachandra419@gmail.com](mailto:adityachandra419@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/adityachandan) | [Portfolio](https://3d-portfolio-sigma-bice.vercel.app) | [GitHub](https://github.com/adityachandra419)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-ch/) | [Portfolio](https://adityachport.tech/) | [GitHub](https://github.com/adityachandra512)
 
 ---
 
